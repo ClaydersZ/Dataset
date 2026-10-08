@@ -2,11 +2,13 @@
 
 Training and testing images, distributed as a ZIP archive through GitHub Releases.
 
+Updated: 2026-10-09.
+
 ## Download
 
-[Download Dataset.zip](https://github.com/ClaydersZ/Gaussian-AD/releases/download/dataset-v1.0/Dataset.zip)
+[Download Dataset.zip](https://github.com/ClaydersZ/Dataset/releases/download/dataset-v1.0/Dataset.zip)
 
-[View the release](https://github.com/ClaydersZ/Gaussian-AD/releases/tag/dataset-v1.0)
+[View the release](https://github.com/ClaydersZ/Dataset/releases/tag/dataset-v1.0)
 
 ## Directory structure
 
